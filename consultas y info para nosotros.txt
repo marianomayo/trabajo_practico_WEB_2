@@ -1,0 +1,7 @@
+terminamos el trabajo!!!!
+quedaria verificar si no es necesario hacerle el isset antes que el !empty   yyyy
+revisar todos los nombres de las funciones,
+
+cuando se edita un pantalon, si no le pongo un dato no me salta showError
+
+
